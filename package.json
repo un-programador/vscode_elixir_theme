@@ -1,0 +1,31 @@
+{
+    "name": "elixir-theme",
+    "displayName": "elixir_theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "maiquitome",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Elixir Theme With Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elixir-theme-with-italics.json"
+            },
+            {
+                "label": "Elixir Theme No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elixir-theme-no-italics.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maiquitome/vscode_elixir_theme.git"
+    }
+}
