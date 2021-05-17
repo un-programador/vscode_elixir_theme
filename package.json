@@ -2,7 +2,7 @@
     "name": "elixir-theme",
     "displayName": "Elixir Theme",
     "description": "",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "publisher": "maiquitome",
     "engines": {
         "vscode": "^1.46.0"
