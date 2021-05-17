@@ -34,14 +34,14 @@
                 "path": "./themes/elixir-theme-no-italics-less-dark.json"
             },
             {
-                "label": "Elixir Theme With Italics Less Dark 2",
+                "label": "Elixir Theme With Italics More Clear",
                 "uiTheme": "vs-dark",
-                "path": "./themes/elixir-theme-with-italics-less-dark-2.json"
+                "path": "./themes/elixir-theme-with-italics-more-clear.json"
             },
             {
-                "label": "Elixir Theme No Italics Less Dark 2",
+                "label": "Elixir Theme No Italics More Clear",
                 "uiTheme": "vs-dark",
-                "path": "./themes/elixir-theme-no-italics-less-dark-2.json"
+                "path": "./themes/elixir-theme-no-italics-more-clear.json"
             }
         ]
     },
