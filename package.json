@@ -32,6 +32,16 @@
                 "label": "Elixir Theme No Italics Less Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/elixir-theme-no-italics-less-dark.json"
+            },
+            {
+                "label": "Elixir Theme With Italics Less Dark 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elixir-theme-with-italics-less-dark-2.json"
+            },
+            {
+                "label": "Elixir Theme No Italics Less Dark 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elixir-theme-no-italics-less-dark-2.json"
             }
         ]
     },
