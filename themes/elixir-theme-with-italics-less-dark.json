@@ -742,6 +742,24 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {}
+		},
+		{
+			"name": "elixir anonymous function",
+			"scope": [
+				"punctuation.definition.variable.elixir",
+				"variable.other.anonymous.elixir"
+			],
+			"settings": {
+				"foreground": "#9f76ff"
+			}
+		},
+		{
+			"name": "Elixir atom points",
+			"scope": "punctuation.definition.constant.elixir",
+			"settings": {
+				"foreground": "#9f76ff",
+				"fontStyle": "bold"
+			}
 		}
 	],
 	"colors": {
