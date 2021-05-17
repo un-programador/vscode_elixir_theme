@@ -19,14 +19,19 @@
                 "path": "./themes/elixir-theme-with-italics.json"
             },
             {
-                "label": "Elixir Theme No Italics",
-                "uiTheme": "vs-dark",
-                "path": "./themes/elixir-theme-no-italics.json"
-            },
-            {
                 "label": "Elixir Theme With Italics Less Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/elixir-theme-with-italics-less-dark.json"
+            },
+            {
+                "label": "Elixir Theme With Italics Less Dark 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elixir-theme-with-italics-less-dark-2.json"
+            },
+            {
+                "label": "Elixir Theme No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elixir-theme-no-italics.json"
             },
             {
                 "label": "Elixir Theme No Italics Less Dark",
@@ -34,14 +39,9 @@
                 "path": "./themes/elixir-theme-no-italics-less-dark.json"
             },
             {
-                "label": "Elixir Theme With Italics More Clear",
+                "label": "Elixir Theme No Italics Less Dark 2",
                 "uiTheme": "vs-dark",
-                "path": "./themes/elixir-theme-with-italics-more-clear.json"
-            },
-            {
-                "label": "Elixir Theme No Italics More Clear",
-                "uiTheme": "vs-dark",
-                "path": "./themes/elixir-theme-no-italics-more-clear.json"
+                "path": "./themes/elixir-theme-no-italics-less-dark-2.json"
             }
         ]
     },
