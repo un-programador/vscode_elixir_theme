@@ -730,7 +730,7 @@
 			}
 		},
 		{
-			"name": "Constant, Function Argument, Tag Attribute, Embedded",
+			"name": "Constant",
 			"scope": [
 				"constant.language"
 			],
@@ -759,6 +759,41 @@
 			"settings": {
 				"foreground": "#9f76ff",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "sigils",
+			"scope": [
+				"support.function.variable.quoted.single.elixir",
+				"punctuation.section.regexp.begin.elixir",
+				"punctuation.section.regexp.end.elixir",
+				"string.regexp.interpolated.elixir",
+				"punctuation.section.list.begin.elixir",
+				"punctuation.section.list.end.elixir"
+			],
+			"settings": {
+				"foreground": "#14ae6e"
+			}
+		},
+		{
+			"name": "#{complete_date}\n",
+			"scope": "source.elixir.embedded.source",
+			"settings": {
+				"foreground": "#8F93A2"
+			}
+		},
+		{
+			"name": "function parentheses",
+			"scope": "meta.function.definition.elixir",
+			"settings": {
+				"foreground": "#fff"
+			}
+		},
+		{
+			"name": "variable function",
+			"scope": "parameter.variable.function.elixir",
+			"settings": {
+				"foreground": "#8F93A2"
 			}
 		}
 	],
