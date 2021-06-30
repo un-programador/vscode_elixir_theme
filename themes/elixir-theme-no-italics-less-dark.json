@@ -785,6 +785,16 @@
 			"settings": {
 				"foreground": "#8F93A2"
 			}
+		},
+		{
+			"name": "use, import, alias",
+			"scope": [
+				"keyword.other.special-method.elixir",
+				"keyword.other.special-method"
+			],
+			"settings": {
+				"foreground": "#C192E3"
+			}
 		}
 	],
 	"colors": {
