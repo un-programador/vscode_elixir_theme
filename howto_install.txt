@@ -1,0 +1,12 @@
+# need vsce
+npm install -g vsce
+
+# create the .vsix file
+vsce package
+
+In the extensions view in vscode click ... and install from VSIX
+find the .vsix file
+
+After installation, go to the Command Palette (Ctrl+Shift+P).
+Type Preferences: Color Theme and select it
+
